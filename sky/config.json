@@ -1,0 +1,15 @@
+{
+  "blog": {
+    "name": "sciencemeetproductivity",
+    "url": "http://blog.olgabotvinnik.com/",
+    "tagline": "I'm Olga Botvinnik, a cello-playing, loose-leaf tea drinking, japanese pen-wielding matplotlib whisperer and bioinformatics and systems biology PhD student at UCSD."
+  },
+  "articles": {
+    "urlformat": "{{slug}}",
+    "index": "index.html"
+  },
+  "build": {
+    "outputDir": "public/"
+  },
+  "partials": {}
+}
